@@ -290,6 +290,3 @@ vtune -report hotspots -result-dir vtune_result
 
 ---
 
-## License
-
-MIT — free to use for academic and personal projects.
