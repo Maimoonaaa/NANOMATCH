@@ -1,7 +1,6 @@
 # NanoMatch — Ultra-Low Latency Order Matching Engine
 
-> **FEC · IIT Guwahati Project 03/06**  
-> Mentors: Shubham Rane (98205 59692) · Tanishq Kothari (98318 23372)
+
 
 ---
 
@@ -76,6 +75,9 @@ nanomatch/
 ├── data/                        # Data directory (gitignored)
 │   └── .gitkeep
 │
+├── docs/
+│   └── BENCHMARK_REPORT.md
+│   └── HFT_MARRATIVE.md
 ├── build.sh                     # One-command build script
 ├── CMakeLists.txt               # CMake build system
 └── README.md
